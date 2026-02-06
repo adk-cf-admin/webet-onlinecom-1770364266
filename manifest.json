@@ -1,0 +1,19 @@
+{
+  "name": "Webet",
+  "short_name": "Webet",
+  "theme_color": "",
+  "background_color": "#24363E",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770363754-icon.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

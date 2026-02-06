@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://webet-online.com/
+Sitemap: https://webet-online.com/sitemap.xml
